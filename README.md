@@ -1,3 +1,9 @@
+
+Updated personal website made with React, Semantic UI react, and react-router-dom
+
+Hi, welcome to my personal website. It is still incomplete, but I will soon update and complete it. Enjoy!
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
